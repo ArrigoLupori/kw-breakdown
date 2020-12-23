@@ -2,13 +2,13 @@
   "name": "keywordbreakdown",
   "version": "1.0.0",
   "description": "A simple keyword breakdown tool",
-  "main": "scripts.js",
+  "main": "web.js",
   "dependencies": {
     "angular": "^1.8.2",
     "express": "^4.17.1"
   },
   "devDependencies": {},
-  "scripts": {
+  "web": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/ArrigoLupori/kw-breakdown/issues"
   },
+  "engines": {
+    "node": "14.15.3"
+  }
   "homepage": "https://github.com/ArrigoLupori/kw-breakdown#readme"
 }
+
