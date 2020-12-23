@@ -1,0 +1,24 @@
+{
+  "name": "keywordbreakdown",
+  "version": "1.0.0",
+  "description": "A simple keyword breakdown tool",
+  "main": "scripts.js",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArrigoLupori/kw-breakdown.git"
+  },
+  "author": "Arrigo Lupori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArrigoLupori/kw-breakdown/issues"
+  },
+  "homepage": "https://github.com/ArrigoLupori/kw-breakdown#readme"
+}
